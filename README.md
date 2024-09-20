@@ -82,4 +82,5 @@ Below you can find project ideas which have been proposed for 2025.
 | **Flood Prediction and Management System** | Develop a flood prediction and management system using hydrological data and machine learning algorithms. | High | 400 | Machine Learning, Data Analysis, GIS Tools | Civil Engineering | A predictive tool for managing and mitigating flood risks. | TBD |
 | **Sustainable Fisheries Management Platform** | Build a platform to support sustainable fisheries management practices, including data collection, analysis, and reporting. | Medium | 350 | Web Development, Data Analysis, Database Management | Marine Biology | An interactive platform for managing sustainable fisheries practices. | TBD |
 | **Solar Energy Optimization Tool** | Create a tool to optimize the placement and efficiency of solar panels in various regions. | Medium | 350 | Python, Data Analysis, Renewable Energy | Mechanical Engineering | A tool to maximize solar energy generation efficiency. | TBD |
+| **ESG TOOL** |SAMPLE| Medium | 350 | Python, Data Analysis, Renewable Energy | Mechanical Engineering | A tool to maximize solar energy generation efficiency. | TBD |
 
